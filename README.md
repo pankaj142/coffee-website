@@ -3,13 +3,13 @@
 # Technologies
 * HTML5
 * CSS
+* JQuery
 * Expressjs
 # See App
 
 LIVE- https://coffee142.herokuapp.com/
 
-# To start the app follow the commands on command prompt:
-
+# To use repo follow:
 1) git clone
 2) Install dependencies i.e npm install
 3) Start app i.e npm start
